@@ -21,7 +21,7 @@ export default function Navigation() {
           <Link to="/" className="flex items-center gap-2">
             <div className="flex items-center gap-2">
               <div className="w-10 h-10 rounded-lg overflow-hidden bg-white flex items-center justify-center">
-                <img src="/assets/logo.png" alt="Logo Koperasi" className="w-full h-full object-cover" />
+                <img src="/assets/logo.jpg" alt="Logo Koperasi" className="w-full h-full object-cover" />
               </div>
               <div className="hidden md:block pt-3">
                 <h1 className="text-white text-center font-bold text-lg">Kelompok Tani Makmur Nambangan Sejahtera Bersama</h1>

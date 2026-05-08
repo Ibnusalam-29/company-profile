@@ -11,7 +11,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <div className="w-10 h-10 rounded-lg overflow-hidden bg-white flex items-center justify-center">
-                <img src="/assets/logo.png" alt="Logo Koperasi" className="w-full h-full object-cover" />
+                <img src="/assets/logo.jpg" alt="Logo Koperasi" className="w-full h-full object-cover" />
               </div>
               <h3 className="text-lg font-bold text-white">Kelompok Tani Makmur Nambangan Sejahtera Bersama</h3>
             </div>
