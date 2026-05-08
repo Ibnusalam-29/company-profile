@@ -7,11 +7,8 @@ export default function Home() {
       <section className="bg-gradient-to-r from-primary via-primaryLight to-secondary py-20 md:py-32 px-4">
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">
-            Koperasi Tani Makmur Nambangan
+            Kelompok Tani Makmur Nambangan Sejahtera Bersama
           </h1>
-          <p className="text-lg md:text-xl text-white mb-2 font-semibold">
-            Sejahtera Bersama
-          </p>
           <p className="text-base md:text-lg text-gray-100 mb-8 max-w-2xl mx-auto">
             Kami adalah produsen sapi potong berkualitas tinggi yang berkomitmen untuk memberikan produk terbaik dengan standar internasional.
           </p>
